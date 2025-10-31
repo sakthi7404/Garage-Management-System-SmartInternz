@@ -1,15 +1,27 @@
 **Project Overview – Garage Management System (GMS)**
 
+*Done by,
+Team leader:
+P.Sakthi Poornima
+Team Members:
+M.Rajeshwari
+B.Sri Rathna Lakshmi
+S.Swathi *
+
 **1. Introduction**
+
 The Garage Management System (GMS) is a cloud-based application developed using Salesforce CRM to automate and streamline daily operations in automobile service centers and garages. It eliminates manual work in managing customers, vehicles, services, inventory, and billing. The system ensures accuracy, efficiency, and customer satisfaction by integrating automation tools, workflows, and dashboards within the Salesforce platform.
 
 **2. Purpose of the Project**
+
 The main purpose of the GMS is to create a centralized and intelligent garage management platform that replaces paper-based and error-prone manual systems. It enables garages to efficiently handle customer service requests, track vehicle servicing, manage spare parts inventory, and generate automated bills — all within a single, secure cloud environment.
 
 **3. Problem Statement**
+
 Traditional garages often rely on manual operations such as maintaining handwritten job cards, tracking inventory manually, and generating physical invoices. These outdated methods lead to inefficiencies, errors, and customer dissatisfaction. There is a need for a digital solution that automates every stage of the service cycle while maintaining transparency and reliability.
 
 **4. Objectives**
+
 To automate the workflow of garage operations including customer management, service booking, and billing.
 To maintain accurate customer and vehicle service histories for future reference.
 To enable real-time service tracking for customers and staff.
@@ -19,6 +31,7 @@ To provide analytical dashboards and performance reports.
 To ensure secure, scalable, and cloud-based data storage using Salesforce.
 
 **5. System Architecture**
+
 The system is designed based on Salesforce’s multi-tenant cloud model and follows a client–server architecture:
 User Interface Layer: Created using Lightning Pages and Components for easy interaction.
 Application Logic Layer: Built using Apex Classes, Flows, and Validation Rules for automation.
